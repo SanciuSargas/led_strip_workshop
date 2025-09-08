@@ -1,5 +1,5 @@
 # led_strip_workshop
-This repostiroy contains material for a beginner workshop using addressable led strips.
+This repository contains material for a beginner workshop using addressable led strips.
 
 Example workshop agenda:
 - Presentation (TODO: add presentation)
